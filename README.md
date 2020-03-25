@@ -12,7 +12,7 @@ allprojects {
 }
 ```
 
-<h3>Step 2: Add the dependency<h3>
+<h3>Step 2: Add the dependency</h3>
 
 ```gradle
 dependencies {
