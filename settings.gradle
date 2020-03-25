@@ -1,0 +1,3 @@
+rootProject.name='EasyTrack-Library'
+include ':app'
+include ':library'
