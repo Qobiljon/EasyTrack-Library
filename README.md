@@ -17,6 +17,6 @@ allprojects {
 ```gradle
 dependencies {
    ...
-   implementation 'com.github.Qobiljon:EasyTrack-Library:0.0.1'
+   implementation 'com.github.Qobiljon:EasyTrack-Library:0.0.2'
 }
 ```
