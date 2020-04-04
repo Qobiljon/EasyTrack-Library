@@ -1,4 +1,4 @@
-# EasyTrack-Library [![jitpack](https://jitpack.io/v/Qobiljon/EasyTrack-Library.svg)](https://jitpack.io/#Qobiljon/EasyTrack-Library)
+# EasyTrack-Library [![Release](https://jitpack.io/v/Qobiljon/EasyTrack-Library.svg?style=flat-square)](https://jitpack.io/#Qobiljon/EasyTrack-Library)
 EasyTrack Library for easier integration of Third-Party Applications with the platform
 
 <h3>Step 1: Add it in your root build.gradle at the end of repositories:</h3>
